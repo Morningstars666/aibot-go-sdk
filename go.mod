@@ -1,4 +1,4 @@
-module github.com/morningstars666/wecom-aibot-go-sdk
+module github.com/morningstars666/aibot-go-sdk
 
 go 1.26.5
 

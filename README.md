@@ -1,4 +1,4 @@
-# wecom-aibot-go-sdk (Go)
+# aibot-go-sdk (Go)
 
 企业微信智能机器人 Go SDK —— 基于 WebSocket 长连接通道，提供消息收发、流式回复、模板卡片、事件回调、临时素材上传、文件下载解密等核心能力。
 
@@ -24,7 +24,7 @@
 ## 📦 安装
 
 ```bash
-go get github.com/morningstars666/wecom-aibot-go-sdk
+go get github.com/morningstars666/aibot-go-sdk
 ```
 
 **依赖：**
@@ -50,7 +50,7 @@ import (
 	"os"
 	"os/signal"
 
-	aibot "github.com/morningstars666/wecom-aibot-go-sdk"
+	aibot "github.com/morningstars666/aibot-go-sdk"
 )
 
 func main() {

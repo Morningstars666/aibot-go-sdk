@@ -7,7 +7,7 @@ import (
 	"os/signal"
 	"path/filepath"
 
-	aibot "github.com/morningstars666/wecom-aibot-go-sdk"
+	aibot "github.com/morningstars666/aibot-go-sdk"
 )
 
 func main() {
